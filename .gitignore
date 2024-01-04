@@ -1,0 +1,6 @@
+test.txt
+test.bin
+.vscode
+*.exe
+*.out
+*.bin
