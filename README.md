@@ -14,7 +14,7 @@ $./program <path/to/my/file.txt> <desired/output/path.bin>
 $./program file.txt compressed_data.bin
 ```
 
-To compress a file:
+To decompress a file:
 ```
 $./program -d <path/to/my/file.bin> <desired/output/path.text>
 
